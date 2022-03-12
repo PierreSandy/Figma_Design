@@ -1,0 +1,136 @@
+.Home {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+  
+}
+  
+.circle_group {
+    display:flex;
+    justify-content: center;
+    gap: 30px;
+}
+  
+.circle_1 {
+    border-radius: 50%;
+    box-shadow: 5px 5px #888888;
+    width: 60px;
+    height: 60px;
+    background:#D3ebf5;
+    padding:20px;
+    font-size: 20px;
+    color:#323f4b;
+    font-weight: bold;
+    line-height: 55px;
+    text-align: center;	
+    font-family: 'Quicksand', sans-serif;	
+  }
+  
+  .circle_2 {
+    border-radius: 50%;
+    box-shadow: 5px 5px #888888;
+    width: 60px;
+    height: 60px;
+    background:#D3ebf5;
+    padding:20px;
+    font-size: 20px;
+    color:#323f4b;
+    font-weight: bold;
+    line-height: 55px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .circle_3 {
+    border-radius: 50%;
+    box-shadow: 5px 5px #888888;
+    width: 60px;
+    height: 60px;
+    background:#D3ebf5;
+    padding:20px;
+    font-size: 20px;
+    color:#323f4b;
+    font-weight: bold;
+    line-height: 55px;
+    text-align: center;	
+    font-family: 'Quicksand', sans-serif;	
+  }
+  
+  .second_circle_group {
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    font-family: 'Quicksand', sans-serif;
+    
+  }
+  
+  .second_circle_1 {
+    border-radius: 50%;
+    box-shadow: 5px 5px #888888;
+    width: 80px;
+    height: 80px;
+    background:#D3ebf5;
+    padding:20px;
+    font-size: 20px;
+    color:#323f4b;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;	
+    font-family: 'Quicksand', sans-serif;	
+  }
+  
+.second_circle_2 {
+    border-radius: 50%;
+    box-shadow: 5px 5px #888888;
+    width: 80px;
+    height: 80px;
+    background:#D3ebf5;
+    padding:20px;
+    font-size: 20px;
+    color:#323f4b;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;	
+    font-family: 'Quicksand', sans-serif;	
+  }
+  
+  .square_box_group{
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 0%;
+    gap: 90px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .square_box {
+    border-radius: 5%;
+    box-shadow: 5px 5px #888888;
+    width: 130px;
+    height: 90px;
+    background:#efc7D1;
+    padding:20px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 70px;
+    text-align: left;	
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .Square_name {
+
+    font-family: 'Quicksand', sans-serif;	
+    font-weight: bold;
+
+  }
+
+  .circle_name{
+    font-family: 'Quicksand', sans-serif;	
+    font-weight: bold;
+  }
+
+  .lead_text {
+
+    font-family: 'Quicksand', sans-serif;	
+    font-weight: bold;
+    
+  }

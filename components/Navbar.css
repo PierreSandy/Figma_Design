@@ -1,0 +1,16 @@
+.main_text {
+    display: inline-flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: -4em;
+    
+}
+
+.Menu_decal {
+    padding-right: 3em;
+    display:flex;
+}
+
+.header_text {
+    color:#BF1F49
+}

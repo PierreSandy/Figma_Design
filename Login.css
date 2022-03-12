@@ -1,0 +1,47 @@
+.main_container{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.Heading_text{
+    color: #323f4b;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+   
+}
+
+.Sub_text{
+    color:#656f78;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Main_text {
+    color:#BF1F49
+
+}
+
+.center_text {
+   display: flex; 
+   justify-content: center;
+   font-family: 'Quicksand', sans-serif;
+   text-align: center;
+   position: relative;
+}
+
+.center_text ::before{
+    content: "";
+    display: block;
+    width: 120x;
+    height: 2px;
+    position: absolute;
+    background: #000 ;
+}
+
+.button_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
